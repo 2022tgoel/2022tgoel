@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=2022tgoel) \
-[![Tarushii's GitHub stats](https://github-readme-stats.vercel.app/api?username=2022tgoel)](https://github.com/2022tgoel/github-readme-stats) \
 [![Tarushii's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2022tgoel&layout=compact)](https://github.com/2022tgoel/github-readme-stats)
 
 
